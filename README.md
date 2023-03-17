@@ -1,4 +1,5 @@
 # Conflict
 Prueba de un conflicto
 
-Actualizando para 4
+Actualizando parte 4
+Actualizando parte 5
